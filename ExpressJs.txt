@@ -1,0 +1,13 @@
+node vs express - node is the main thing express ke code se hum server ka code likh pate and server kaise react karega wo bhi express ke help se likhte hai
+
+what is express js - ek package hai aur iski madat se ham routing kr skte hian
+
+why express js - https is difficult to use and that is why express makes things easier
+
+routing - rounts bnanae ke process ko rouitng kehte hian - routs kya hote hain:
+/profile
+/home
+/contact
+/profile/june
+
+middleware - 
