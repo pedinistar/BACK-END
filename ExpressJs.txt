@@ -22,3 +22,5 @@ route parameters - to make any route dynamic you can use colon at the place wher
 
 template engines - ejs
 html ke pass super powers nahi hai calculation karne ki 
+ejs is html with superpowers
+ejs setup karneke liye 
