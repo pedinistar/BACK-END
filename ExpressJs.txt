@@ -24,3 +24,32 @@ template engines - ejs
 html ke pass super powers nahi hai calculation karne ki 
 ejs is html with superpowers
 ejs setup karneke liye 
+1) ejs install
+npm i ejs
+2) configure ejs
+app.set("view engine", "ejs")
+3) ek views folder bnao
+4) usmein ejs files banao
+5) send ki jagah render karo => render karte wakt make sure aap views folder ke andr waali hi koi file kaa naam likhein , aur render function mein .ejs mention na karein
+
+
+
+template engines => ye ek style of markup se convert krke aapko html dete hai
+ejs is very very similar to html
+ek markup style jo ki bad mein convert hojayegi html mein
+
+
+
+static files - images, stylesheets, frontend javascript setup karna
+static files ko setup karne ke liye:
+1) create a folder called a public 
+2) create three folders inside it, images, stylesheets, javascripts
+3) configure the express static 
+4) understand the path in script.js file(here ejs.js)
+
+
+
+http methods - get post
+
+
+error handling
