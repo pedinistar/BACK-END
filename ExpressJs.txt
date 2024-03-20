@@ -17,5 +17,8 @@ request and response
 req mein sara data hota hai aane wale user ki request ki taraf ka, jaisa ki uski location, device info and other things, respnse mein controls hote hain jinke basis pe hum server se respnse bhej paate hai, next is just a push so that our request moves to the next thing which should be executed
 
 
-route parameters
+route parameters - to make any route dynamic you can use colon at the place where you want to make it dynamic, and to access their value use re.params._
 
+
+template engines - ejs
+html ke pass super powers nahi hai calculation karne ki 
